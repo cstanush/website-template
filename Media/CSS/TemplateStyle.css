@@ -1,0 +1,27 @@
+
+#header {
+	font-size: 30px;
+	color: lightBlue;
+	text-align: center;
+}
+
+#pageLayout {
+	float: right;
+}
+
+#formContainer {
+	background-color: #EAF2D3;
+	border-radius: 8px;
+}
+
+#titleBar {
+	font: 35px bold;
+	text-align: center;	
+}
+
+nav {
+	font: 25px bold;
+	text-align: center;
+}
+
+
